@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SACHIN SINGH
 - 👀 I’m interested in POWER BI
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics & POWER BI Projects
+- 💞️ I’m looking to have an interview on POWER BI Projects
 - 📫 How to reach me sachin.message@outlook.com
 - 
 I am very much interested in data analytics and i am making my all efforts to be expert in data analytics. I am pursuing Advanced Diploma in IT, Networking & Cloud Computing. I
